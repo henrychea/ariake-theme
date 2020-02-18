@@ -1,23 +1,23 @@
 <scheme name="Ariake" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-03-06T13:21:33</property>
-    <property name="ide">PhpStorm</property>
-    <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-03-08T16:29:52</property>
-    <property name="originalScheme">_@user_Default</property>
+    <property name="created">2020-02-18T20:12:52</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">3.5.3.0</property>
+    <property name="modified">2020-02-18T20:13:02</property>
+    <property name="originalScheme">Ariake</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="16" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Hack" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code" />
-  <option name="CONSOLE_FONT_SIZE" value="15" />
   <colors>
     <option name="CARET_COLOR" value="" />
     <option name="CARET_ROW_COLOR" value="" />
@@ -29,7 +29,7 @@
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="NOTIFICATION_BACKGROUND" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
-    <option name="RIGHT_MARGIN_COLOR" value="4a151d" />
+    <option name="RIGHT_MARGIN_COLOR" value="11767b" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="4a151d" />
     <option name="SELECTION_BACKGROUND" value="93ddfb" />
@@ -228,10 +228,9 @@
       </value>
     </option>
     <option name="DEFAULT_STRING">
-      <value />
-    </option>
-    <option name="DEFAULT_TAG">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="e7b500" />
+      </value>
     </option>
     <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
       <value />
@@ -278,14 +277,6 @@
     <option name="DUPLICATE_FROM_SERVER">
       <value />
     </option>
-    <option name="ELM_ARROW" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="ELM_BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="ELM_COMMA" baseAttributes="DEFAULT_COMMA" />
-    <option name="ELM_DEFINITION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
-    <option name="ELM_EQ" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="ELM_OPERATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="ELM_PARENTHESIS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="ELM_PIPE" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="ELM_TYPE">
       <value>
         <option name="FOREGROUND" value="5ab0fc" />
@@ -371,7 +362,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_VARIABLE" baseAttributes="DEFAULT_GLOBAL_VARIABLE" />
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
       <value>
         <option name="FOREGROUND" value="93ddfb" />
@@ -12407,14 +12397,12 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="PHP_TAG">
       <value>
         <option name="FOREGROUND" value="4d8acb" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="5ab0fc" />
