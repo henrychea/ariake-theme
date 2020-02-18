@@ -1,0 +1,25 @@
+<mtTheme>
+  <id>Ariake-Dark-VSCode</id>
+  <editorColorsScheme>Ariake-Dark</editorColorsScheme>
+  <dark>true</dark>
+  <name>Ariake Theme</name>
+  <colors>
+    <color id="background" value="1f212aff"/>
+    <color id="foreground" value="f2faffff"/>
+    <color id="text" value="a8acadff"/>
+    <color id="highlight" value="383d48ff"/>
+    <color id="selectionBackground" value="2f333dff"/>
+    <color id="selectionForeground" value="ffffffff"/>
+    <color id="button" value="3a3f4bff"/>
+    <color id="secondaryBackground" value="2f333dff"/>
+    <color id="disabled" value="6b727dff"/>
+    <color id="contrast" value="1f212aff"/>
+    <color id="tableSelected" value="383e49ff"/>
+    <color id="secondBorder" value="282c34ff"/>
+    <color id="treeSelection" value="3a3f4b80"/>
+    <color id="notifications" value="282c34ff"/>
+    <color id="accent" value="2979ffff"/>
+    <color id="excluded" value="3c4150ff"/>
+  </colors>
+  <themeId>Ariake-Dark-VSCode</themeId>
+</mtTheme>
